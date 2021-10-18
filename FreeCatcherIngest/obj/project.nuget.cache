@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZHY1tEwhcGtxbFKaR0nhhkAsj5orlP227xZ+J1C+cGwnACqRs654guNaTusHqOO3QA2oLWZK9hDGIS0+YLaEg==",
+  "success": true,
+  "projectFilePath": "G:\\FreeCatcher\\IngestServer\\FreeCatcherIngest\\FreeCatcherIngest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mike\\.nuget\\packages\\ffmpegcore\\4.5.0\\ffmpegcore.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\instances\\1.6.0\\instances.1.6.0.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
